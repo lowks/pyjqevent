@@ -358,6 +358,7 @@ if __name__ == '__main__':
             version=version,
             packages=packages,
             scripts=scripts,
+            description='A jquery-like event system for python',
             long_description=long_description,
 
             package_data=package_data,
